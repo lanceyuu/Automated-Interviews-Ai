@@ -90,6 +90,12 @@ python main.py
 ## Test the app
 With the development server running, call the phone number you purchased in the **Prerequisites**. After the introduction, you should be able to talk to the AI Assistant. Have fun!
 
+## Convert the raw recording to wmv files
+
+```
+python convert.py
+```
+
 ## Special features
 
 ### Have the AI speak first
