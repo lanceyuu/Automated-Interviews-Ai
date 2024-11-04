@@ -1,8 +1,8 @@
 #  An Automated interview AI System Powered by Twilio Voice and the OpenAI Realtime API (Python)
 
-# Adapted from [speech-assistant-openai-realtime-api-python] by [twilio-samples] - [https://github.com/twilio-samples/speech-assistant-openai-realtime-api-python.git]
-# Original code can be found at the link above.
-# This adaptation includes modifications for academic purposes (conducting qualitative interviews at a large scale).
+Adapted from [speech-assistant-openai-realtime-api-python] by [twilio-samples] - [https://github.com/twilio-samples/speech-assistant-openai-realtime-api-python.git]
+Original code can be found at the link above.
+This adaptation includes modifications for academic purposes (conducting qualitative interviews at a large scale).
 
 
 This application demonstrates how to use Python, [Twilio Voice](https://www.twilio.com/docs/voice) and [Media Streams](https://www.twilio.com/docs/voice/media-streams), and [OpenAI's Realtime API](https://platform.openai.com/docs/) to make a phone call to speak with an AI Assistant. 
